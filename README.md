@@ -15,7 +15,7 @@ http://www.iwriteiam.nl/Crook_path.html which contains some good information.
 Usage
 ------------------
 <pre>
-Usage: path_finder.py [-d] [-s [-p]] <m> <n>
+Usage: path_finder.py [-d] [-s [-p]] &lt;m&gt; &lt;n&gt;
     -d Print debug information
     -s Print solutions
     -p Print paths with solutions
